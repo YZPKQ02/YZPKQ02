@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YZPKQ02
-- 👀 I’m interested in Algorithm, and i love Data Structure and Graph Theory
+- 👀 I’m interested in Algorithm, and i especially love Data Structure and Graph Theory 
 ```cpp
 struct SCC {
     int num, cnt;
